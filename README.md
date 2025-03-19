@@ -25,8 +25,7 @@ This section includes the configuration of **routers and switches** in different
 ### 7️⃣ **Wireless Configuration**
 The **Wireless Configuration** section demonstrates the setup of wireless networks, including access points, wireless routers, and associated security configurations. These setups will show how to implement wireless connectivity and security in various environments.
 
-### 7️⃣ **Multi-Area OSPF Configuration**
-This section covers the configuration of **OSPF (Open Shortest Path First)** in a multi-area setup. The configurations demonstrate how to divide a network into different OSPF areas, improving network scalability and efficiency. It includes setting up the backbone area (Area 0) and connecting multiple areas such as Area 1 and Area 2, as well as configuring Area Border Routers (ABRs) to facilitate communication between areas. This configuration is ideal for large networks that require hierarchical routing for better management and optimized routing performance.
+
 
 
 
