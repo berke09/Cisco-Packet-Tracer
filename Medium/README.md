@@ -15,5 +15,6 @@ The contents of this repository include network configurations that I have share
 - Port Security Configuration
 - Multi-Area OSPF Configuration
 - DHCP Snooping Configuration
+- NAT-PAT Configuration
 
 You can explore each project in more detail by visiting my **(https://medium.com/@berkecakir89)** where I provide step-by-step explanations, challenges faced, and solutions implemented.
