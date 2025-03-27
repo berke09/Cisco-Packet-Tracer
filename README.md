@@ -24,6 +24,10 @@ This section includes the configuration of **routers and switches** in different
 
 ### 7️⃣ **Wireless Configuration**
 The **Wireless Configuration** section demonstrates the setup of wireless networks, including access points, wireless routers, and associated security configurations. These setups will show how to implement wireless connectivity and security in various environments.
+### 8️⃣ **NAT-PAT Configuration**
+This section covers the configuration of **NAT (Network Address Translation) and PAT (Port Address Translation)**, which is used to map multiple private IP addresses to a single public IP address using different port numbers. The configurations in this section demonstrate how PAT can be implemented to enable multiple devices on an internal network to access the internet using a single public IP address.
+
+
 
 
 
