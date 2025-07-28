@@ -12,5 +12,11 @@ A company network setup that involves connecting different departments within an
 
 ### 3️⃣ **Campus Network**
 A campus-wide network setup that connects various buildings within a campus environment. This configuration uses multiple routers and switches to provide internet connectivity, inter-building communication, and scalability for future expansion. The network also includes wireless access points and redundant connections to ensure high availability.
+
 ### 4️⃣ **Otel Link Network**
 A otel network setup ensuring secure and efficient communication between guests, staff, and administrative units. It includes OSPF for dynamic routing, VLANs for segmentation, port security, SSH for secure access, banner configuration, static & dynamic IP assignment, and essential servers like DNS, DHCP, and web.
+
+### 5️⃣ **Distributed Branch Network**
+A branch office network topology enabling secure and scalable communication between multiple city-based locations. It includes OSPF for dynamic routing, VLANs for segmentation, port security, SSH for remote access, banner messages, and support for static & dynamic IP configuration. The setup reflects a real-world enterprise structure focused on security and efficiency.
+
+.
