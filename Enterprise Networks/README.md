@@ -19,4 +19,6 @@ A otel network setup ensuring secure and efficient communication between guests,
 ### 5️⃣ **Distributed Branch Network**
 A branch office network topology enabling secure and scalable communication between multiple city-based locations. It includes OSPF for dynamic routing, VLANs for segmentation, port security, SSH for remote access, banner messages, and support for static & dynamic IP configuration. The setup reflects a real-world enterprise structure focused on security and efficiency.
 
-.
+### 6️⃣ **Multi Site Enterprise Network Topology Configuration**
+A wireless-capable branch office network topology designed to ensure secure and scalable connectivity across multiple geographically separated locations. The architecture incorporates WLCs and Access Points for centralized wireless management, OSPF for dynamic routing, VLANs for structured segmentation, and port security for enhanced access control. It also features SSH-based remote access, custom login banners, and supports both static and DHCP-based IP assignments. This setup emulates a modern enterprise environment prioritizing mobility, security, and centralized control.
+
