@@ -7,7 +7,7 @@ This repository contains a set of **Enterprise Network** projects designed and c
 ### 1️⃣ **Dormitory Network**
 A network setup designed for a dormitory, where multiple rooms are connected to a central network. The configuration includes the use of routers, switches.
 
-### 2️⃣ **Company Network**
+### 2️⃣ **Multi Department Network**
 A company network setup that involves connecting different departments within an organization. This network configuration includes multiple VLANs for different departments, inter-VLAN routing, network security measures such as ACLs, and connection to the outside world via a firewall. This project demonstrates how enterprise networks are segmented for better security and efficiency.
 
 ### 3️⃣ **Campus Network**
