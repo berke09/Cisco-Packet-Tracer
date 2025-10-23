@@ -24,3 +24,6 @@ A wireless-capable branch office network topology designed to ensure secure and 
 
 ### 7️⃣ **Three-Tier Enterprise Network Configuration**
 A hierarchical enterprise network setup designed using the Three-Tier model (Access, Distribution, Core). This configuration demonstrates a realistic corporate network architecture with multiple VLANs for segmenting departments, inter-VLAN routing, and static as well as dynamic IP assignment for hosts. The setup includes a static router cluster for redundancy, port security, and efficient traffic management across layers. This project showcases best practices in enterprise network design, emphasizing scalability, high availability, and structured network segmentation.
+
+### 8️⃣ **Mutli Branch Network Configuration**
+A multi-branch enterprise network designed in Cisco Packet Tracer, featuring both wired and wireless infrastructures. The setup includes multiple VLANs for department segmentation, inter-VLAN routing, static and dynamic IP assignments, OSPF dynamic routing, and NAT Overload (PAT) for Internet access. Redundant router configurations and port security ensure reliability and protection, showcasing scalable, secure, and efficient enterprise network design principles.
