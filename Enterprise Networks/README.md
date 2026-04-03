@@ -27,3 +27,6 @@ A hierarchical enterprise network setup designed using the Three-Tier model (Acc
 
 ### 8️⃣ **Mutli Branch Network Configuration**
 A multi-branch enterprise network designed in Cisco Packet Tracer, featuring both wired and wireless infrastructures. The setup includes multiple VLANs for department segmentation, inter-VLAN routing, static and dynamic IP assignments, OSPF dynamic routing, and NAT Overload (PAT) for Internet access. Redundant router configurations and port security ensure reliability and protection, showcasing scalable, secure, and efficient enterprise network design principles.
+
+### 9️⃣ **Smart Home & IoT Integrated Network**
+A modern residential and office automation network designed to integrate IoT devices within a secure enterprise framework. This project features a robust wireless architecture utilizing WLCs (Wireless LAN Controllers) and lightweight Access Points to manage smart devices. The configuration focuses on IoT management via dedicated local servers, VLAN segmentation to isolate IoT traffic from sensitive data networks, and port security. It demonstrates the convergence of smart technologies with network security, employing OSPF for connectivity and PAT for external access, ensuring a scalable and automated environment.
